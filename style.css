@@ -1,0 +1,52 @@
+.app-table {
+  background-color: #ffe5e5;
+  padding-top: 56px;
+  padding-bottom: 62px;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.app-col {
+  text-align: center;
+  padding-left: 15px;
+  padding-right: 15px;
+}
+p {
+  font-size: 14px;
+}
+.app-p {
+  color: #9d9d9d;
+}
+span {
+  font-weight: bold;
+}
+.app-button1 {
+  border: 2px solid #1276b97a;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #ffffff;
+}
+.app-button1:hover {
+  border: 2px solid #ffffff;
+  background-color: #2a69a6;
+}
+.app-button2 {
+  border: 2px solid #1275b9;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #1275b9;
+}
+.app-button2:hover {
+  border: 2px solid #1275b9;
+  background-color: #ffffff;
+}
+.app-button3 {
+  border: 2px solid #1275b9;
+  border-radius: 50%;
+  padding: 12px;
+  background-color: #1275b9;
+}
+.app-button3:hover {
+  border: 2px solid #1275b9;
+  background-color: #ffffff;
+}
